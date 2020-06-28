@@ -1,2 +1,2 @@
-# WIldfire-Predictor
-WIldfire prediction using python
+# Wildfire-Predictor
+Wildfire prediction using python
