@@ -1,1 +1,1 @@
-Visualizing data on map of californi using Folium and Basemap.
+Visualizing data on map of California using Folium and Basemap.
